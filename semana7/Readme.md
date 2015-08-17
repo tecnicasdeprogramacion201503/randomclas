@@ -1,1 +1,0 @@
-Actividades realizadas la semana 7. Prueba para PR desde TortoiseGit.
