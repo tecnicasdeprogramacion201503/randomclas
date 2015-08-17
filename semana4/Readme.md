@@ -1,0 +1,1 @@
+Actividades realizadas la cuarta semana. Este archivo constituye una prueba de funcionamiento del modelo de fork & pull-request.
