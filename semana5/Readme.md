@@ -1,1 +1,0 @@
-Actividades realizadas la quinta semana. Este archivo constituye una prueba de funcionamiento del modelo de fork & pull-request.
